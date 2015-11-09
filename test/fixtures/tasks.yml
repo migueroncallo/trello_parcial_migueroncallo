@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  title: MyString
+  description: MyString
+  duration: 2015-11-09 04:43:40
+  startdate: 2015-11-09
+  deadline: 2015-11-09
+  author: MyString
+  checked: false
+
+two:
+  user_id: 1
+  title: MyString
+  description: MyString
+  duration: 2015-11-09 04:43:40
+  startdate: 2015-11-09
+  deadline: 2015-11-09
+  author: MyString
+  checked: false
